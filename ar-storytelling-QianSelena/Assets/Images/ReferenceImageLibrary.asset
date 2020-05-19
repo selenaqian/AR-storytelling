@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4986021200977600444
+  m_GuidHigh: 3169880038030473859
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5005836343088184917
+      m_GuidHigh: 7143839972690531456
+    m_SerializedTextureGuid:
+      m_GuidLow: 16446139879419203673
+      m_GuidHigh: 882457496324306651
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: chairs
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5717684169048091078
+      m_GuidHigh: 5303122450896000920
+    m_SerializedTextureGuid:
+      m_GuidLow: 1456640393037808271
+      m_GuidHigh: 11990501811365592938
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: porridge
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5752534550094821488
+      m_GuidHigh: 11967931282303528870
+    m_SerializedTextureGuid:
+      m_GuidLow: 1502836108535050189
+      m_GuidHigh: 16648197360602655177
+    m_Size: {x: 0.05, y: 0.05}
+    m_SpecifySize: 1
+    m_Name: beds
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5764436105372956450
+      m_GuidHigh: 11419417786392228489
+    m_SerializedTextureGuid:
+      m_GuidLow: 9564388782052073976
+      m_GuidHigh: 7946785754530469928
+    m_Size: {x: 0.05, y: 0.05}
+    m_SpecifySize: 1
+    m_Name: trees
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5521856690054352197
+      m_GuidHigh: 7723173152634781884
+    m_SerializedTextureGuid:
+      m_GuidLow: 11854338826205680455
+      m_GuidHigh: 9714244186912950712
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: bridge
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4729916540107245084
+      m_GuidHigh: 14813581833695014070
+    m_SerializedTextureGuid:
+      m_GuidLow: 14132276724065516175
+      m_GuidHigh: 4942818341597148442
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: goldilocks
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4799044694884449722
+      m_GuidHigh: 13133690069309056164
+    m_SerializedTextureGuid:
+      m_GuidLow: 3750876801528156604
+      m_GuidHigh: 13268833746988138170
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: bears
+    m_Texture: {fileID: 0}
